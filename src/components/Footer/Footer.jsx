@@ -1,5 +1,5 @@
-// src/components/Footer/Footer.jsx
-import './Footer.css'; // Import the CSS for the Footer
+
+import './Footer.css'; 
 const Footer = () => {
   return (
     <footer className="footer">
